@@ -13,7 +13,7 @@ AI-Powered Real-Time Detection of Voice Cloning Impersonation Attacks
 
 ## Overview
 
-VoxShield is a machine learning based system that listens to short chunks of live audio and classifies the voice as REAL (human) or FAKE (AI-generated / cloned), along with a confidence score. It is built to address the growing threat of voice cloning being used for scams, fraud, and impersonation, with a specific focus on Indian-accented voices, a group underrepresented in most existing deepfake detection datasets.
+VoxShield is a machine learning based system who listens to short chunks of live audio and classifies the voice as REAL (human) or FAKE (AI-generated / cloned), along with a confidence score. It is built to address the growing threat of voice cloning being used for scams, fraud, and impersonation, with a specific focus on Indian-accented voices, a group underrepresented in most existing deepfake detection datasets.
 
 ## Problem Statement
 
@@ -28,7 +28,7 @@ Given a short audio clip (live microphone input or uploaded file), VoxShield:
    
 3. Outputs a REAL or FAKE prediction with a confidence score
    
-3. Outputs a REAL or FAKE prediction with a confidence score 
+3. Outputs a REAL or FAKE prediction with a confidence score. 
 
 
 ## Pipeline
@@ -137,7 +137,7 @@ This project is informed by and builds on findings from recent academic research
 
 - [Piyush Tiwari](https://github.com/codepiyusss) (Leader)
 - [Siddhartha Kumar](https://github.com/DevSid740)
-- [Abhishek Dwivedi](https://github.com/abhishekdwivedi3686-max)
+- [Abhishek Dwivedi](https://github.com/Dev-abhishek17)
 - [Anjali Kumari](https://github.com/anjalikumari469)
 - [Lucky Kumari](https://github.com/lucky-mehta)
 - [Aman Dubey](https://github.com/amandubey0605)
